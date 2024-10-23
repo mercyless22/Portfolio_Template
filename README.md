@@ -11,15 +11,12 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://mercyless22/Portfolio_Template/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mercyless22.github.io/Portfolio_Template/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
-
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
